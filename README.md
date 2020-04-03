@@ -1,0 +1,2 @@
+# SmartHome
+Gruppe G - SmartHome
